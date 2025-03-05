@@ -8,6 +8,7 @@ public class Main {
     }
     public static void method1() {
         System.out.println("Jiayi");
+        System.out.println("Branch Jiayi");
     }
     public static void method2() {
         System.out.println("Guillermo");
