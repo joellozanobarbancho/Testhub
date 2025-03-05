@@ -7,6 +7,7 @@ public class Main {
         method4();
     }
     public static void method1() {
+
     }
     public static void method2() {
 
