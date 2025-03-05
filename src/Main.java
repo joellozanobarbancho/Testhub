@@ -11,7 +11,6 @@ public class Main {
     }
     public static void method2() {
         System.out.println("Guillermo");
-
     }
     public static void method3() {
 
