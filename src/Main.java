@@ -11,7 +11,7 @@ public class Main {
     }
     public static void method2() {
         System.out.println("Guillermo");
-        System.out.println("Branch Guillermo");
+        System.out.println("Branch Guillermos");
     }
     public static void method3() {
         System.out.println("Joel");
