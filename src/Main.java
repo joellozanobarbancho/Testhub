@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Guillermo");
     }
     public static void method3() {
-
+        System.out.println("alfons");
     }
     public static void method4() {
 
