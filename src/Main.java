@@ -14,6 +14,7 @@ public class Main {
     }
     public static void method3() {
         System.out.println("Joel");
+        System.out.println("Branch Alfons");
     }
     public static void method4() {
 
